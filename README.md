@@ -1,4 +1,4 @@
-Face Recognition Micro Project in Python
+#Face Recognition Micro Project in Python
 
 Install Dependencies
 
